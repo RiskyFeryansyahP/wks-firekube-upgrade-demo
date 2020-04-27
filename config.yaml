@@ -15,4 +15,3 @@ controlPlane:
   nodes: 1
 workers:
   nodes: 1
-version: "1.14.1"
